@@ -17,7 +17,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Flutter](https://flutter.dev/)
 - [PokeAPI](https://pokeapi.co/)
-- 
+
 
 
 ## ⚙️ Pré-requisitos
