@@ -69,4 +69,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/Jaceguai)
+Desenvolvido por [Jaceguai](https://github.com/Jaceguai)
