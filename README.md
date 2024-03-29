@@ -8,7 +8,11 @@ Bem-vindo à Pokedex Flutter! Esta é uma aplicação desenvolvida em Flutter qu
 
 ## 📱 Capturas de Tela
 
+<<<<<<< HEAD
 ![Pokedex](.github\images\screenshot.jpg)
+=======
+![Pokedex](.github/images/screenshot.png)
+>>>>>>> 17b479245ce03700d3bfbb7350ee5aab0ecf92eb
 
 
 ## 🧪 Tecnologias Utilizadas
