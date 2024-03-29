@@ -59,7 +59,7 @@ $ flutter run
 - Visualização de todos os Pokémon da PokeAPI.
 - Filtragem de Pokémon por tipo.
 - Pesquisa de Pokémon por nome.
-- 
+  
 
 ## 🌟 Contribuição
 
