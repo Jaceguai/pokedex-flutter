@@ -1,6 +1,5 @@
 # Pokedex Flutter
 
-![Pokedex](.github/pokedex.png)
 
 ## 🚀 Introdução
 
@@ -21,9 +20,14 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
 
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/)
+- Um editor de código, como [Visual Studio Code](https://code.visualstudio.com/) ou [Android Studio](https://developer.android.com/studio)
+
+Certifique-se também de ter configurado o Flutter SDK corretamente nas variáveis de ambiente do seu sistema.
+
+Com esses pré-requisitos instalados e configurados, você estará pronto para executar o projeto.
+
 
 ## 🛠️ Como Executar
 
@@ -60,4 +64,4 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido por [Seu Nome](https://github.com/Jaceguai)
