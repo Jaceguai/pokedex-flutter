@@ -1,20 +1,47 @@
-<<<<<<< HEAD
-# pokedex
+# Pokedex Flutter
 
-A new Flutter project.
+![Pokedex](.github/pokedex.png)
 
-## Getting Started
+## 🚀 Introdução
 
-This project is a starting point for a Flutter application.
+Bem-vindo à Pokedex Flutter! Esta é uma aplicação desenvolvida em Flutter que permite explorar todos os Pokémon da PokeAPI. Você pode filtrar os Pokémon por tipo ou pesquisar por nome.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Capturas de Tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Pokedex](.github/pokedex-screenshot.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# pokedex-flutter
->>>>>>> 1cf27d94613e82764b165bbe41cccc9ae58d72df
+## 🧪 Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [Flutter](https://flutter.dev/)
+- [PokeAPI](https://pokeapi.co/)
+
+## ⚙️ Pré-requisitos
+
+Antes de começar, certifique-se de ter instalado o Flutter em sua máquina. Você pode encontrar instruções de instalação em [flutter.dev](https://flutter.dev/docs/get-started/install).
+
+## 🛠️ Como Executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/seu-usuario/pokedex-flutter.git
+$ cd pokedex-flutter
+
+# Instalar as dependências
+$ flutter pub get
+
+# Iniciar o aplicativo
+$ flutter run
+
+
+💡 Funcionalidades
+
+    Visualização de todos os Pokémon da PokeAPI.
+    Filtragem de Pokémon por tipo.
+    Pesquisa de Pokémon por nome.
+
+🌟 Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
