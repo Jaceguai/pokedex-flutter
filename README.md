@@ -1,3 +1,14 @@
+# Projeto Meta Original
+
+(.github/imagesMetaOriginal/1.png)
+(.github/imagesMetaOriginal/2.jpg)
+(.github/imagesMetaOriginal/1.jpg)
+(.github/imagesMetaOriginal/1.jpg)
+
+App Joystick para integração com 3d e maquete física usando pixel streaming
+
+
+
 # Pokedex Flutter
 
 
