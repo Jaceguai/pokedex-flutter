@@ -2,8 +2,8 @@
 
 ![Foto 1](.github/imagesMetaOriginal/1.png)
 ![Foto 2](.github/imagesMetaOriginal/2.jpg)
-![Foto 3](.github/imagesMetaOriginal/1.jpg)
-![Foto 4](.github/imagesMetaOriginal/1.jpg)
+![Foto 3](.github/imagesMetaOriginal/3.jpg)
+![Foto 4](.github/imagesMetaOriginal/4.jpg)
 
 App Joystick para integração com 3d e maquete física usando pixel streaming
 
